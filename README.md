@@ -1,3 +1,7 @@
+
+<img width="1408" height="768" alt="Gemini_Generated_Image_y76iwky76iwky76i" src="https://github.com/user-attachments/assets/3e0dac10-79ab-4129-bbf2-49b70e3109b4" />
+
+
 # SecUD
 Clonagem automática - Baixa a página de login e modifica o formulário para capturar credenciais
 
