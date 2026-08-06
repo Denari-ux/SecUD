@@ -10,10 +10,10 @@ bash
 pip3 install requests beautifulsoup4
 
 # Clonar e servir página de login
-python3 login_cloner.py https://site-alvo.com/login
+python3 SecUD.py https://site-alvo.com/login
 
 # Especificar porta diferente
-python3 login_cloner.py https://site-alvo.com/login --port 80
+python3 SecUD.py https://site-alvo.com/login --port 80
 
 Funcionalidades
 
